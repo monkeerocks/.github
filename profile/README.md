@@ -1,5 +1,6 @@
 <p align="center">
-  <a  target="blank" href="https://monkee.rocks"><img src="../assets/monkee_logo_blue.png" width="320" alt="Monkee Logo" /></a>
+  <a  target="blank" href="https://monkee.rocks"><img src=" https://github.com/monkeerocks/.github/raw/main/assets/monkee_logo_blue.png
+" width="320" alt="Monkee Logo" /></a>
 </p>
 
 ## Team values
